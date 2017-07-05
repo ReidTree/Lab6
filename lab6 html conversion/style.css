@@ -1,0 +1,27 @@
+body {
+  width: 500px;
+  text-align: center;
+}
+p.tempConvert {
+  display: inline;
+}
+#tempConversion {
+  font-size: 24px;
+}
+form {
+  padding: 40px;
+  background-color: lightblue;
+}
+button {
+  font-size: 18px;
+  background-color: limegreen;
+  border: 0;
+}
+select {
+  background-color: limegreen;
+  border: 0;
+}
+select:hover, button:hover {
+  background-color: green;
+  color: white;
+}
